@@ -88,7 +88,7 @@ I am a 3rd year student of Computer Science at the Warsaw University of Technolo
 
 ## Other projects
 - A text-based escape room game developed using Prolog, Haskell, and Smalltalk - https://github.com/amurawsk/escape-room-game
-- File organizing script - https://github.com/amurawsk/asu
+- File organizer script - https://github.com/amurawsk/asu
 
 
 
