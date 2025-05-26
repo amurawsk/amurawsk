@@ -50,7 +50,7 @@ I am a 3rd year student of Computer Science at the Warsaw University of Technolo
 
 2. **blastoff**
 
-[![blastoff](https://github-readme-stats.vercel.app/api/pin/?username=amurawsk&repo=blastoff&theme=dark)](https://github.com/amurawsk/blastoff)
+[![blastoff](https://github-readme-stats.vercel.app/api/pin/?username=amurawsk&repo=blastoff)](https://github.com/amurawsk/blastoff)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
