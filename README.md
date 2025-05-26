@@ -31,7 +31,7 @@ I am a 3rd year student of Computer Science at the Warsaw University of Technolo
 ## Projects
 1. **brewIT**
 
-[![brewit](https://github-readme-stats.vercel.app/api/pin/?username=amurawsk&repo=brewit&theme=dark)](https://github.com/amurawsk/brewit)
+[![brewit](https://github-readme-stats.vercel.app/api/pin/?username=amurawsk&repo=brewit)](https://github.com/amurawsk/brewit)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
@@ -69,7 +69,7 @@ I am a 3rd year student of Computer Science at the Warsaw University of Technolo
 
 3. **Horses**
 
-[![horses](https://github-readme-stats.vercel.app/api/pin/?username=amurawsk&repo=horses&theme=dark)](https://github.com/amurawsk/horses)
+[![horses](https://github-readme-stats.vercel.app/api/pin/?username=amurawsk&repo=horses)](https://github.com/amurawsk/horses)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
