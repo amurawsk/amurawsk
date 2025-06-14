@@ -91,6 +91,7 @@ I am a 3rd year student of Computer Science at the Warsaw University of Technolo
 ## Machine learning projects
 - Implementation and experimental analysis of the IRep++ rule learning algorithm - https://github.com/amurawsk/uma-24z-irep-plus-plus
 - Modified Differential Evolution algorithm implementation - https://github.com/amurawsk/differential-evolution
+- Fake-news detection project - https://github.com/amurawsk/fake-news-detection
 
 ## Other projects
 - A text-based escape room game developed using Prolog, Haskell, and Smalltalk - https://github.com/amurawsk/escape-room-game
