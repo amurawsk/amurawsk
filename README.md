@@ -1,5 +1,7 @@
 ## Hi there 👋
-I am a 3rd year student of Computer Science at the Warsaw University of Technology.
+I hold a Bachelor's degree in Computer Science and am currently pursuing a Master's degree.
+
+Here are some of my projects.
 
 ## Programming languages, technologies and frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
